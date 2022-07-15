@@ -18,11 +18,11 @@
 ## [テーブル定義](https://docs.google.com/spreadsheets/d/1ug1PI6fMeSc5TC-76lEbg-4TZ1CwnxPgLIz5EoLrTlo/edit#gid=2020033787)
 
 ## ワイヤーフレーム
-![goto_kintai_wireflame](https://user-images.githubusercontent.com/103027606/172785656-26a999a8-a502-4367-89b1-4e4863fc1370.png)
+![mimamori_wireframe](https://user-images.githubusercontent.com/103027606/179325068-c904a315-09e8-4db1-b752-3ed1d24f1646.png)
 
 ## ER図
-![go_to_kintai_ER](https://user-images.githubusercontent.com/103027606/172785747-7deb194b-09ab-40a7-8fd8-b4dcba413382.png)
+![mimamori_ER](https://user-images.githubusercontent.com/103027606/179325052-95a2d589-baea-4541-a9d9-e2de09ca8950.png)
 
 ## 画面遷移図
-![goto_kintai_wireflame](https://user-images.githubusercontent.com/103027606/177082231-e9502a27-8706-4d56-ac7d-f02745ff4c37.png)
+![mimamori_screen](https://user-images.githubusercontent.com/103027606/179325081-73c2f5e5-deca-4332-ac3f-8b58440f95b1.png)
 
